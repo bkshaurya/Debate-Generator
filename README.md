@@ -1,0 +1,1 @@
+I developed a debate content generator project using NLP and GPT-2, designed to assist users in generating structured debate content. By inputting a topic, the system generates content within a predefined word limit, including an introduction, statements for and against, and a conclusion, facilitating efficient debate preparation.
